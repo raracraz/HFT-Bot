@@ -1,0 +1,4 @@
+- opens buy and sell stops on both sides of the price.
+- stop loss levels are trailing per tick
+
+IDEA: "https://www.youtube.com/watch?v=zrwGHsLCcqk"
